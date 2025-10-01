@@ -1,0 +1,18 @@
+[
+  {
+    "id": "orchard-1",
+    "title": "Sunnyvale Orchards",
+    "lat": 41.5,
+    "lng": -81.6,
+    "type": "apple_orchard",
+    "notes": "Open weekends Sep-Oct — cider donuts"
+  },
+  {
+    "id": "pumpkin-park",
+    "title": "Riverbend Pumpkin Patch",
+    "lat": 41.4,
+    "lng": -81.7,
+    "type": "pumpkin_patch",
+    "notes": "Kids hayrides, photo ops"
+  }
+]

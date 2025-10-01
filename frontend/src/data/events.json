@@ -1,0 +1,18 @@
+[
+  {
+    "id": "circleville-pumpkin",
+    "title": "Circleville Pumpkin Show",
+    "date": "2025-10-15",
+    "location": "Circleville, OH",
+    "type": "festival",
+    "description": "Classic pumpkin fest with contests & seasonal food."
+  },
+  {
+    "id": "orchard-day",
+    "title": "Maple Ridge Apple Orchard",
+    "date": "2025-10-03",
+    "location": "Cleveland, OH",
+    "type": "apple_orchard",
+    "description": "Pick-your-own apples and cider donuts on weekends."
+  }
+]
